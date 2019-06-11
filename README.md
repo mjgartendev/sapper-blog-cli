@@ -16,6 +16,10 @@ sapper blog management cli created with oclif
 <!-- usage -->
 ```sh-session
 $ npm install -g sapper-blog-cli
+or
+$ git clone https://github.com/mjgartendev/sapper-blog-cli.git
+$ npm link
+
 $ sapper-blog-cli COMMAND
 running command...
 $ sapper-blog-cli (-v|--version|version)
