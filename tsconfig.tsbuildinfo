@@ -1360,6 +1360,31 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/alphabet.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/alphabet.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/metadata.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/parse.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/args.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/metadata.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/help.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/index.d.ts": [
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/args.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
@@ -1368,47 +1393,44 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/command.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/flags.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/command.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/flags.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/main.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/src/commands/hello.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/src/commands/add.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/src/index.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/main.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/flags.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/command.d.ts": [
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/index.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/hooks.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/pjson.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/manifest.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/topic.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/plugin.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/manifest.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/pjson.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/topic.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/config.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/hooks.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/pjson.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/plugin.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/topic.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1423,65 +1445,43 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/hooks.d.ts": [
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/flags.d.ts": [
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/config.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/hooks.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/pjson.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/plugin.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/topic.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/plugin.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/manifest.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/pjson.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/topic.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/manifest.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/parse.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/args.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/metadata.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/alphabet.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/alphabet.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/help.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/index.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/metadata.d.ts": [
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/command.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/flags.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/pjson.d.ts": [
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/main.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/config/lib/topic.d.ts": [
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/command.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/flags.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/main.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/src/index.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/src/commands/add.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/src/commands/hello.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@oclif/command/lib/index.d.ts"
       ],
       "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/chai/index.d.ts": [
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
@@ -1491,182 +1491,6 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
@@ -1695,6 +1519,182 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/index.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/mocha/index.d.ts": [
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1704,6 +1704,205 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/assert.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/async_hooks.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/buffer.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/child_process.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/cluster.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/child_process.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/console.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/constants.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/crypto.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dgram.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/domain.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/fs.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http2.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/fs.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tls.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/https.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tls.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/inspector.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/module.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/os.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/path.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/perf_hooks.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/async_hooks.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/process.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/punycode.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/querystring.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/readline.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/repl.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/readline.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/vm.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/string_decoder.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/timers.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tls.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/crypto.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/trace_events.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tty.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/querystring.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/v8.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/vm.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/zlib.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1750,6 +1949,14 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/zlib.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/globals.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
+        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/index.d.ts": [
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/base.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts",
@@ -1764,214 +1971,7 @@
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/async_hooks.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/perf_hooks.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/async_hooks.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/buffer.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/child_process.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/cluster.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/child_process.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/console.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/constants.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/crypto.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tls.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/crypto.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/https.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tls.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http2.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/fs.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tls.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dgram.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/dns.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/tty.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/http.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/net.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/domain.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/worker_threads.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/zlib.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/readline.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/repl.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/readline.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/vm.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/fs.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/stream.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/inspector.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/events.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/module.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/os.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/path.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/process.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/punycode.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/querystring.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/url.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/querystring.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/string_decoder.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/timers.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/trace_events.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/sinon/ts3.1/index.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/globals.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/vm.d.ts": [
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
-        "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/v8.d.ts": [
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/util.d.ts",
         "c:/users/mjgar/repos/clis/oclif-demo/node_modules/@types/node/ts3.2/util.d.ts"
       ]

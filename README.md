@@ -1,7 +1,7 @@
-oclif-demo
+sapper-blog-cli
 ==========
 
-getting started demo of oclif
+sapper blog management cli created with oclif
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/oclif-demo.svg)](https://npmjs.org/package/oclif-demo)
@@ -15,11 +15,11 @@ getting started demo of oclif
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g oclif-demo
+$ npm install -g sapper-blog-cli
 $ sapper-blog-cli COMMAND
 running command...
 $ sapper-blog-cli (-v|--version|version)
-oclif-demo/0.0.0 win32-x64 node-v10.1.0
+sapper-blog-cli/0.0.0 win32-x64 node-v10.1.0
 $ sapper-blog-cli --help [COMMAND]
 USAGE
   $ sapper-blog-cli COMMAND

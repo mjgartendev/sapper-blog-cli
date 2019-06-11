@@ -1,10 +1,10 @@
 {
-  "name": "oclif-demo",
+  "name": "sapper-blog-cli",
   "description": "getting started demo of oclif",
   "version": "0.0.0",
   "author": "michael garten",
   "bin": {
-    "oclif-demo": "./bin/run"
+    "sapper-blog-cli": "./bin/run"
   },
   "bugs": "https://github.com/mjgartendev/oclif-demo/issues",
   "dependencies": {
