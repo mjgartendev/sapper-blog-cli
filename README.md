@@ -16,45 +16,46 @@ getting started demo of oclif
 <!-- usage -->
 ```sh-session
 $ npm install -g oclif-demo
-$ oclif-demo COMMAND
+$ sapper-blog-cli COMMAND
 running command...
-$ oclif-demo (-v|--version|version)
+$ sapper-blog-cli (-v|--version|version)
 oclif-demo/0.0.0 win32-x64 node-v10.1.0
-$ oclif-demo --help [COMMAND]
+$ sapper-blog-cli --help [COMMAND]
 USAGE
-  $ oclif-demo COMMAND
+  $ sapper-blog-cli COMMAND
 ...
 ```
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [`oclif-demo add [FILE]`](#oclif-demo-add-file)
-* [`oclif-demo hello [FILE]`](#oclif-demo-hello-file)
-* [`oclif-demo help [COMMAND]`](#oclif-demo-help-command)
+* [`sapper-blog-cli add NAME`](#sapper-blog-cli-add-name)
+* [`sapper-blog-cli hello [FILE]`](#sapper-blog-cli-hello-file)
+* [`sapper-blog-cli help [COMMAND]`](#sapper-blog-cli-help-command)
 
-## `oclif-demo add [FILE]`
+## `sapper-blog-cli add NAME`
 
-describe the command here
+add new md file in current directory
 
 ```
 USAGE
-  $ oclif-demo add [FILE]
+  $ sapper-blog-cli add NAME
+
+ARGUMENTS
+  NAME  note name to add, .md can be omitted
 
 OPTIONS
-  -f, --force
-  -h, --help       show CLI help
-  -n, --name=name  name to print
+  -h, --help  show CLI help
 ```
 
-_See code: [src\commands\add.ts](https://github.com/mjgartendev/oclif-demo/blob/v0.0.0/src\commands\add.ts)_
+_See code: [src\commands\add.ts](https://github.com/mjgartendev/sapper-blog-cli/blob/v0.0.0/src\commands\add.ts)_
 
-## `oclif-demo hello [FILE]`
+## `sapper-blog-cli hello [FILE]`
 
 describe the command here
 
 ```
 USAGE
-  $ oclif-demo hello [FILE]
+  $ sapper-blog-cli hello [FILE]
 
 OPTIONS
   -f, --force
@@ -66,15 +67,15 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src\commands\hello.ts](https://github.com/mjgartendev/oclif-demo/blob/v0.0.0/src\commands\hello.ts)_
+_See code: [src\commands\hello.ts](https://github.com/mjgartendev/sapper-blog-cli/blob/v0.0.0/src\commands\hello.ts)_
 
-## `oclif-demo help [COMMAND]`
+## `sapper-blog-cli help [COMMAND]`
 
-display help for oclif-demo
+display help for sapper-blog-cli
 
 ```
 USAGE
-  $ oclif-demo help [COMMAND]
+  $ sapper-blog-cli help [COMMAND]
 
 ARGUMENTS
   COMMAND  command to show help for

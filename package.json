@@ -44,12 +44,12 @@
   "main": "index.js",
   "oclif": {
     "commands": "./lib/commands",
-    "bin": "oclif-demo",
+    "bin": "sapper-blog-cli",
     "plugins": [
       "@oclif/plugin-help"
     ]
   },
-  "repository": "mjgartendev/oclif-demo",
+  "repository": "mjgartendev/sapper-blog-cli",
   "scripts": {
     "postpack": "rimraf oclif.manifest.json",
     "posttest": "tslint -p test -t stylish",
